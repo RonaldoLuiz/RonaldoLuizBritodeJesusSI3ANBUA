@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Ronaldo Luiz Brito de Jesus | SI3ANBUA</string>
+
+
+    <string name="textNome">Qual seu nome ?</string>
+    <string name="edittextNome">Digite seu nome</string>
+
+    <string name="textAssunto"> Qual assunto de interesse ?</string>
+
+    <string-array name="tecnico">
+        <item>Concrete Mathematics</item>
+        <item>The C++ Programming Language</item>
+    </string-array>
+
+    <string-array name="literatura">
+        <item>Dom Casmurro</item>
+        <item>Primo Basilio</item>
+        <item>O Guarani</item>
+        <item>O Ateneu</item>
+        <item>A Hora da Estrela</item>
+        <item>Iracema</item>
+        <item>O Cortiço</item>
+        <item>O Mulato</item>
+    </string-array>
+
+
+    <string name="confirmar">Confirmar</string>
+
+    <string name="textBemVindo">Bem vindo,</string>
+
+    <string name="textListaLivro">Eis uma lista de livros:</string>
+
+    <string-array name="planets_array">
+        <item>Técnico</item>
+        <item>Literatura</item>
+    </string-array>
+
+</resources>
